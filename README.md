@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/av01e7m49315ak0y?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/advfirst)
